@@ -18,7 +18,7 @@ This is a piece of software written in C++ which will do the following:
 
 The purpose of this softawre is to display the basic skills that are used when writing software in C++.
 
-<Tutorial Video Here>
+Youtube Tutorial: https://youtu.be/oGT5u5l5BZo
 
 ## Development Environment:
 This software was developed using C++ in the Visual Studio Code editing program. The Visual Studio Code supplied C++ attatchement was used for compiling and debugging.
